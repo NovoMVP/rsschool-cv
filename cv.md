@@ -43,3 +43,17 @@ I am a Junior Frontend developer with great enthusiasm and drive to develop in t
 - Javascript/Front-end  
   Rolling Scopes School
 
+## PERSONAL SKILLS
+- Responsible
+- Hardworking
+- Sociable
+- Decent
+- Punctual
+- Honest
+- Responsive
+- Balanced, resistant to stress
+
+## LANGUAGES
+- Russian - Native
+- English - Intermediate
+- German - Intermediate
