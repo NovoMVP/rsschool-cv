@@ -25,3 +25,21 @@ I am a Junior Frontend developer with great enthusiasm and drive to develop in t
 </script>
 ```
 
+## WORK EXPERIENCE
+- **Brokerage Firm**  
+  *2011 - 2013*  
+  I strengthened my data analysis, time management, and communication skills while working at a brokerage firm. I had the opportunity to work with financial instruments and learned the importance of accuracy and attention to detail in my work.
+
+- **Second Assistant Captain, Sea Experience**  
+  *2013 - 2022*  
+  As a Second Assistant Captain, I developed teamwork, project management, and problem-solving skills in a dynamic and highly disciplined environment. I gained experience in ensuring safety, following protocols, and effectively communicating with the crew.
+
+## EDUCATION
+- **Navigation Department**  
+  Kaliningrad Maritime Fishing College  
+  *September 2005 - June 2009*
+
+## COURSES
+- Javascript/Front-end  
+  Rolling Scopes School
+
