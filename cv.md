@@ -14,3 +14,14 @@ I am a Junior Frontend developer with great enthusiasm and drive to develop in t
 - JavaScript (Basic)
 - React
 - Git
+
+## CODE EXAMPLE
+```html
+<h1>Привет, мир!</h1>
+
+<script>
+  var name = prompt("Stanislav:");
+  document.write("<p>Привет, " + Stanislav + "!</p>");
+</script>
+```
+
